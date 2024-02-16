@@ -1,4 +1,4 @@
-package org.example.mirai.plugin
+package com.ranjiu.signin
 
 import net.mamoe.mirai.console.permission.AbstractPermitteeId
 import net.mamoe.mirai.console.permission.PermissionService
