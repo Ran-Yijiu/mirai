@@ -1,4 +1,4 @@
-package org.example.mirai.plugin
+package com.ranjiu.signin
 
 import net.mamoe.mirai.alsoLogin
 import net.mamoe.mirai.console.MiraiConsole
@@ -15,7 +15,7 @@ suspend fun main() {
             
             详见:
             https://docs.mirai.mamoe.net/console/plugin/JVMPlugin.html#%E8%B0%83%E8%AF%95
-            https://github.com/mamoe/mirai/blob/dev/mirai-console/docs/plugin/JVMPlugin.md#%E8%B0%83%E8%AF%95
+            https://github.ink/mamoe/mirai/blob/dev/mirai-console/docs/plugin/JVMPlugin.md#%E8%B0%83%E8%AF%95
             """.trimIndent())
     }
 
